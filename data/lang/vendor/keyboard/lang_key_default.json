@@ -5,26 +5,26 @@
   "rows": 4,
   "keys": [
     {
-      "label": "Ӧ",
-      "row": 2,
-      "column": 10
+      "label": "Й",
+      "row": 1,
+      "column": 1
     },
     {
-      "label": "Ң",
-      "row": 3,
-      "column": 5
+      "label": "Ө",
+      "row": 2,
+      "column": 7
     }
   ],
   "long_press": [
     {
-      "key": "o",
+      "key": "О",
       "alternates": [
         "Ӧ",
         "Ө"
       ]
     },
     {
-      "key": "u",
+      "key": "У",
       "alternates": [
         "Ӱ",
         "Ü"
